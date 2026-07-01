@@ -1,0 +1,13 @@
+{
+  "name": "fire-alert-backend",
+  "version": "1.0.0",
+  "description": "Backend API for the fire alarm prototype",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
